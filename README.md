@@ -16,7 +16,7 @@ Click these links to see respective document.
 - [Test Cases](https://docs.google.com/spreadsheets/d/1ZzbfZ37WEthl7CYPb4vOmFNYLLIL8gHHD7gZdEe5ASM/edit?usp=sharing)
 - [Issue Report](https://docs.google.com/spreadsheets/d/1ooR6Zu47q18P2nXTd2axO8lQAqJ-_iA-ZUhpyHnUCrw/edit?usp=sharing)
 - [Postman Documentation](https://documenter.getpostman.com/view/19579535/2s83Rzjuu1)
-- [Newman Report Live](https://link-url-here.org)
+- [Newman Report Live](https://hhhameem.github.io/dmoney-api-tesing/)
 
 ## Newman Report Screenshot
 
